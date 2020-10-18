@@ -1,0 +1,10 @@
+C:\Users\JackYellow\Desktop\VodoKanal\VodoKanalForms\bin\Debug\VodoKanalForms.exe.config
+C:\Users\JackYellow\Desktop\VodoKanal\VodoKanalForms\bin\Debug\VodoKanalForms.exe
+C:\Users\JackYellow\Desktop\VodoKanal\VodoKanalForms\bin\Debug\VodoKanalForms.pdb
+C:\Users\JackYellow\Desktop\VodoKanal\VodoKanalForms\obj\Debug\VodoKanalForms.csprojAssemblyReference.cache
+C:\Users\JackYellow\Desktop\VodoKanal\VodoKanalForms\obj\Debug\VodoKanalForms.Form1.resources
+C:\Users\JackYellow\Desktop\VodoKanal\VodoKanalForms\obj\Debug\VodoKanalForms.Properties.Resources.resources
+C:\Users\JackYellow\Desktop\VodoKanal\VodoKanalForms\obj\Debug\VodoKanalForms.csproj.GenerateResource.cache
+C:\Users\JackYellow\Desktop\VodoKanal\VodoKanalForms\obj\Debug\VodoKanalForms.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\VodoKanal\VodoKanalForms\obj\Debug\VodoKanalForms.exe
+C:\Users\JackYellow\Desktop\VodoKanal\VodoKanalForms\obj\Debug\VodoKanalForms.pdb
